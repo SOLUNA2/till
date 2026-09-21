@@ -1,1 +1,8 @@
 # till
+
+오늘 배운 것을 적어봅니다.
+
+- add
+- commit
+- push
+- pull
